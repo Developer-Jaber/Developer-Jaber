@@ -1,6 +1,6 @@
 # Hi there, I'm Jaber Hossain 👋
 
-<hr/>
+
 ## Welcome to my GitHub corner! As a web developer with a passion for innovation, I aim to transform ideas into impactful solutions. Here’s a glimpse into my world:
 
 
@@ -13,7 +13,7 @@
 ⚡ Fun fact: I once built a website entirely out of rubber ducks just to prove a point about the importance of user experience!
 
 
-<hr/>
+
 
 # 🛠️ My Toolbox
 
@@ -23,7 +23,7 @@
 ## React
 
 
-<hr/>
+
 
 # 📊 GitHub Stats
 <div align="center">
@@ -40,7 +40,7 @@
 I’m always open to discussing new projects, creative ideas, or opportunities to be part of your vision. Feel free to reach out!
 
 
-<hr/>
+
 
 
 
