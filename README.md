@@ -2,9 +2,17 @@
 
 ![Profile Banner](https://your-image-link-here.com/banner.png)
 
+<br>
+<br>
+
 ## Welcome to My GitHub Profile!
 
 I am Jaber Hossain, a passionate Full-Stack Developer with a knack for creating dynamic and user-friendly web applications. With a strong foundation in React, TailwindCSS, DaisyUI, MongoDB, and Express.js, I build robust solutions that deliver exceptional user experiences.
+
+<br>
+<br>
+<br>
+
 
 ### 🌟 Skills and Expertise
 - **Frontend Development**: 
@@ -29,6 +37,11 @@ I am Jaber Hossain, a passionate Full-Stack Developer with a knack for creating 
 - **UI/UX Design**: 
   - Figma
   - Adobe XD
+ 
+
+  <br>
+  <br>
+  <br>
 
 ### 🏆 Notable Projects
 - **Chill Gamer**: A user-friendly game review application featuring user authentication, review management, and a clean, responsive UI.
@@ -39,9 +52,9 @@ I am Jaber Hossain, a passionate Full-Stack Developer with a knack for creating 
 To leverage my technical skills and creative problem-solving abilities to build innovative and efficient solutions that make a positive impact.
 
 ### 🌐 Connect with Me
-- **LinkedIn**: [Jaber Hossain](https://www.linkedin.com/in/jaberhossain)
+- **LinkedIn**: [Jaber Hossain](https://www.linkedin.com/in/jaberhossains)
 - **Portfolio**: [jaberhossain.dev](https://www.jaberhossain.dev)
-- **Email**: [jaberhossain@example.com](mailto:jaberhossain@example.com)
+- **Email**: [jaberhossain.web.developer@gmail.com](mailto:jaberhossain.web.developer@gmail.com)
 
 ### 🚀 Let's Collaborate!
 I am always open to discussing new projects, creative ideas, and opportunities to be part of your vision. Feel free to reach out!
