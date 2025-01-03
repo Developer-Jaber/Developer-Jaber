@@ -53,7 +53,7 @@ To leverage my technical skills and creative problem-solving abilities to build 
 
 ### 🌐 Connect with Me
 - **LinkedIn**: [Jaber Hossain](https://www.linkedin.com/in/jaberhossains)
-- **Portfolio**: [jaberhossain.dev](https://www.jaberhossain.dev)
+- **Portfolio**: [jaberhossain.dev](https://jaber-hossain.web.app/)
 - **Email**: [jaberhossain.web.developer@gmail.com](mailto:jaberhossain.web.developer@gmail.com)
 
 ### 🚀 Let's Collaborate!
