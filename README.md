@@ -59,29 +59,9 @@ To leverage my technical skills and creative problem-solving abilities to build 
 ### 🚀 Let's Collaborate!
 I am always open to discussing new projects, creative ideas, and opportunities to be part of your vision. Feel free to reach out!
 
-## ⚡ GitHub Stats
-## 🏃 Latest GitHub Activity
-<!--START_SECTION:activity-->
-name: Update README with GitHub Activity
+## ⚡ GitHub State
+![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JaberHossain&theme=radical)
 
-on:
-  schedule:
-    - cron: '0 * * * *' # Runs every hour
-  workflow_dispatch:
-
-jobs:
-  update-readme:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v3
-
-      - name: Update GitHub Activity in README
-        uses: jasonlong/github-activity-readme@v1
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-<!--END_SECTION:activity-->
 
 
 ## 🔥 Most Used Languages
