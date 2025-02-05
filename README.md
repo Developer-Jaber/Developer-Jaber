@@ -60,7 +60,8 @@ To leverage my technical skills and creative problem-solving abilities to build 
 I am always open to discussing new projects, creative ideas, and opportunities to be part of your vision. Feel free to reach out!
 
 ## ⚡ GitHub Stats
-![Jaber's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JaberHossain&show_icons=true&theme=radical)
+![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JaberHossain&theme=radical)
+
 
 ## 🔥 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaberHossain&layout=compact&theme=radical)
