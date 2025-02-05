@@ -61,9 +61,7 @@ I am always open to discussing new projects, creative ideas, and opportunities t
 
 ## ⚡ GitHub State
 ![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JaberHossain&theme=radical)
-## 🏃 Latest GitHub Activity
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+
 
 
 
@@ -73,5 +71,4 @@ I am always open to discussing new projects, creative ideas, and opportunities t
 ## 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=JaberHossain&theme=gruvbox)
 
-## 💡 Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JaberHossain&theme=radical)
+
