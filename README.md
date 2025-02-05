@@ -61,6 +61,9 @@ I am always open to discussing new projects, creative ideas, and opportunities t
 
 ## ⚡ GitHub State
 ![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JaberHossain&theme=radical)
+## 🏃 Latest GitHub Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 
 
