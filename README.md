@@ -1,6 +1,6 @@
 # Jaber Hossain - Full-Stack Developer
 
-![GitHub Banner]((https://i.ibb.co/chRHq4bv/Welcome.gif))
+![GitHub Banner](https://i.ibb.co/chRHq4bv/Welcome.gif)
 
 <br>
 <br>
