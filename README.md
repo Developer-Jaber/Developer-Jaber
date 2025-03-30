@@ -59,16 +59,17 @@ To leverage my technical skills and creative problem-solving abilities to build 
 ### 🚀 Let's Collaborate!
 I am always open to discussing new projects, creative ideas, and opportunities to be part of your vision. Feel free to reach out!
 
-## ⚡ GitHub State
-![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JaberHossain&theme=radical)
 
-
+### My GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Developer-Jaber&show_icons=true&theme=radical)
 
 
 ## 🔥 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaberHossain&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-Jaber&layout=compact&theme=radical)
+
+
 
 ## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=JaberHossain&theme=gruvbox)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Developer-Jaber&theme=gruvbox)
 
 
