@@ -67,6 +67,9 @@ I am always open to discussing new projects, creative ideas, and opportunities t
 ## 🔥 Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-Jaber&layout=compact&theme=radical)
 
+### My Activity Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Developer-Jaber&theme=dracula)
+
 
 
 ## 🏆 GitHub Trophies
