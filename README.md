@@ -1,4 +1,4 @@
-# Jaber Hossain - Full-Stack Developer
+# Jaber Hossain - MERN-Stack Developer
 
 ![GitHub Banner](https://i.ibb.co/chRHq4bv/Welcome.gif)
 
@@ -7,7 +7,7 @@
 
 ## Welcome to My GitHub Profile!
 
-I am Jaber Hossain, a passionate Full-Stack Developer with a knack for creating dynamic and user-friendly web applications. With a strong foundation in React, TailwindCSS, DaisyUI, MongoDB, and Express.js, I build robust solutions that deliver exceptional user experiences.
+I’m Jaber Hossain, a passionate MERN Stack Developer focused on building scalable, responsive, and user-centric web applications. With a strong foundation in modern frontend and backend technologies, I specialize in delivering clean, efficient, and maintainable code to solve real-world problems and enhance user experiences.
 
 <br>
 <br>
@@ -16,11 +16,10 @@ I am Jaber Hossain, a passionate Full-Stack Developer with a knack for creating 
 
 ### 🌟 Skills and Expertise
 - **Frontend Development**: 
-  - React
-  - TailwindCSS
-  - DaisyUI
   - HTML5
   - CSS3
+  - TailwindCSS
+  - React.js
   - JavaScript (ES6+)
 - **Backend Development**: 
   - Node.js
