@@ -36,6 +36,11 @@ I’m Jaber Hossain, a passionate MERN Stack Developer focused on building scala
 - **UI/UX Design**: 
   - Figma
   - Adobe XD
+<br>
+<br>
+- **Currenty Exploring and Working On**: 
+  - Next.js
+  - Redux(state management)
  
 
   <br>
