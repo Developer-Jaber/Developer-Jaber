@@ -38,6 +38,7 @@ I’m Jaber Hossain, a passionate MERN Stack Developer focused on building scala
   - Adobe XD
 - **Currenty Exploring and Working On**: 
   - Next.js
+  - TypeScript
   - Redux(state management)
  
 
