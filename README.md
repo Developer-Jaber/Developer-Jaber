@@ -21,6 +21,10 @@ I’m Jaber Hossain, a passionate MERN Stack Developer focused on building scala
   - TailwindCSS
   - React.js
   - JavaScript (ES6+)
+  - Next.js
+  - TypeScript
+  - Redux(state management)
+    
 - **Backend Development**: 
   - Node.js
   - Express.js
@@ -36,10 +40,8 @@ I’m Jaber Hossain, a passionate MERN Stack Developer focused on building scala
 - **UI/UX Design**: 
   - Figma
   - Adobe XD
-- **Currenty Exploring and Working On**: 
-  - Next.js
-  - TypeScript
-  - Redux(state management)
+- **Currently Exploring and Working On**: 
+  --Prisma
  
 
   <br>
