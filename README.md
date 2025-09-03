@@ -11,7 +11,6 @@ I’m Jaber Hossain, a passionate MERN Stack Developer focused on building scala
 
 <br>
 <br>
-<br>
 
 
 ### 🌟 Skills and Expertise
@@ -22,6 +21,8 @@ I’m Jaber Hossain, a passionate MERN Stack Developer focused on building scala
   - React.js
   - JavaScript (ES6+)
   - Next.js
+  - NextAuth.js
+  - React Hook form, zod resolver
   - TypeScript
   - Redux(state management)
     
@@ -40,8 +41,8 @@ I’m Jaber Hossain, a passionate MERN Stack Developer focused on building scala
 - **UI/UX Design**: 
   - Figma
   - Adobe XD
-- **Currently Exploring and Working On**: 
-  --Prisma
+- **Currently Exploring and Working On**:
+  - Prisma
  
 
   <br>
@@ -49,15 +50,14 @@ I’m Jaber Hossain, a passionate MERN Stack Developer focused on building scala
   <br>
 
 ### 🏆 Notable Projects
-- **Chill Gamer**: A user-friendly game review application featuring user authentication, review management, and a clean, responsive UI.
-- **Discount PRO**: A coupon-collecting application with advanced sorting and filtering capabilities.
-- **Luxury Real Estate**: A website showcasing high-end properties like penthouses, beachfront homes, and private islands.
+- **College Fair**: A user-friendly Student and Admission management application featuring student authentication/admin authorization, review colleges, admission flow, secure student/admin dashboard and a clean, responsive UI.
+- **Care Connect Camp**: A Madical Camp management portal where people easily find there suitable madicale camp and can be join with relevent information. sorting and filtering capabilities for camp and specialist.
 
 ### 📈 My Mission
 To leverage my technical skills and creative problem-solving abilities to build innovative and efficient solutions that make a positive impact.
 
 ### 🌐 Connect with Me
-- **LinkedIn**: [Jaber Hossain](https://www.linkedin.com/in/jaberhossains)
+- **LinkedIn**: [Jaber Hossain](https://www.linkedin.com/in/developer--jaber/)
 - **Portfolio**: [https://jaber-hossain.web.app/](https://jaber-hossain.web.app/)
 - **Email**: [jaberhossain.web.developer@gmail.com](mailto:jaberhossain.web.developer@gmail.com)
 
